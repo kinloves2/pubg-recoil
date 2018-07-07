@@ -20,3 +20,6 @@ python main.py
 нажать Start 
 
 для вкл\выкл - жать X
+
+
+Специально для http://pvpru.com by timon48
