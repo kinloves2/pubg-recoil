@@ -1,15 +1,15 @@
-Загрузить и установить https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
-распаковать архив в D:\pubg-norecoil
+Р—Р°РіСЂСѓР·РёС‚СЊ Рё СѓСЃС‚Р°РЅРѕРІРёС‚СЊ https://www.python.org/ftp/python/3.7.0/python-3.7.0.exe
+СЂР°СЃРїР°РєРѕРІР°С‚СЊ Р°СЂС…РёРІ РІ D:\pubg-recoil
 
-Запустить CMD(командную строку) от имени Администратора!
+Р—Р°РїСѓСЃС‚РёС‚СЊ CMD(РєРѕРјР°РЅРґРЅСѓСЋ СЃС‚СЂРѕРєСѓ) РѕС‚ РёРјРµРЅРё РђРґРјРёРЅРёСЃС‚СЂР°С‚РѕСЂР°!
 
 pip install pypiwin32
 pip install mouse
 
 
 D:
-cd D:\pubg-norecoil
+cd D:\pubg-recoil
 python main.py
 
-нажать Start 
-для вкл\выкл - жать X
+РЅР°Р¶Р°С‚СЊ Start 
+РґР»СЏ РІРєР»\РІС‹РєР» - Р¶Р°С‚СЊ X
